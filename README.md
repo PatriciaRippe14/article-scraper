@@ -1,1 +1,1 @@
-# article-scraper
+# ArticleScraper
